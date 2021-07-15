@@ -1,6 +1,6 @@
 # twibbonize
 
-## [Demo](https:todoapp.aziziqbal.com).
+## [Demo](https:todoapp.aziziqbal.com)  : https:todoapp.aziziqbal.com
 
 
 
